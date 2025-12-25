@@ -41,14 +41,11 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
 
 ## 🔧 Outras Tecnologias
 
-## 🔧 Outras Tecnologias
-
 <p align="left">
   <!-- Dados / Backend -->
   <img alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
   <img alt="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71" height="36"/>
-  <img alt="Power BI" src="https://cdn.simpleicons.org/powerbi/F2C811" height="36"/>
 
   <!-- Web -->
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
