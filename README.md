@@ -1,4 +1,4 @@
-# Tiago Mello
+# 👩🏻‍💻 Tiago Mello
 
 ## 👋 Sobre mim
 
@@ -46,9 +46,6 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
 
 
 ## 📊 Estatísticas do GitHub
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TiagoBMello&show_icons=true&theme=tokyonight&hide_title=true"
-    height="160"
-  />
-</p>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=TiagoBMello&show_icons=true&theme=tokyonight&hide_title=true&count_private=true"
+/>
