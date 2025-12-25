@@ -50,7 +50,11 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
   <img alt="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71" height="35"/>
 
   <!-- BI -->
-  <img alt="Power BI" src="https://cdn.simpleicons.org/powerbi/F2C811" height="35"/>
+ <img 
+  alt="Power BI"
+  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+  height="35"
+/>
 
   <!-- Web / Linguagens -->
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
