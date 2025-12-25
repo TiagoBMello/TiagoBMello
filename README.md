@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tiago Mello
+# Tiago Mello
 
 ## 👋 Sobre mim
 
