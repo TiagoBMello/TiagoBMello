@@ -1,5 +1,3 @@
-# 👩🏻‍💻 Tiago Mello
-
 ## 👋 Sobre mim
 
 Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco nas áreas de **Ciência de Dados e Machine Learning**. Busco oportunidades de estágio onde possa aplicar programação e tecnologia como apoio à análise de dados e à tomada de decisão, desenvolvendo soluções orientadas por dados em diferentes contextos e tipos de empresa.
