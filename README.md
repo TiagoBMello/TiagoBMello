@@ -42,11 +42,23 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
 ## 🔧 Outras Tecnologias
 
 <p align="left">
+  <!-- Bancos / Dados -->
+  <img alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
+
+  <!-- Automação / Pipelines -->
+  <img alt="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71" height="35"/>
+
+  <!-- BI -->
+  <img alt="Power BI" src="https://cdn.simpleicons.org/powerbi/F2C811" height="35"/>
+
+  <!-- Web / Linguagens -->
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+
+  <!-- Base computacional -->
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
 </p>
