@@ -2,7 +2,9 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco nas áreas de **Dados e Machine Learning**. Atualmente buscando oportunidades de estágio onde possa aplicar programação e tecnologia como apoio à análise de dados e à tomada de decisão, desenvolvendo soluções orientadas por dados em diferentes contextos e tipos de empresa.
+Sou estudante de Engenharia de Software na PUC-Campinas, com interesse nas áreas de Dados e Machine Learning. Estou construindo minha base em análise de dados com Python, SQL, Power BI e Excel, buscando oportunidades de estágio para aprender na prática e contribuir com projetos orientados a dados.
+
+Tenho vontade de atuar especialmente em contextos como o mercado financeiro, onde dados têm um papel central na tomada de decisão, e também no mercado esportivo, explorando análises de desempenho e métricas. Atualmente, sigo desenvolvendo projetos pessoais e estudando para evoluir na área.
 
 ---
 
@@ -29,12 +31,11 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
 
 <p align="left">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
   <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
   <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
   <img alt="Scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35"/>
-  <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
   <img alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
 </p>
 
 ---
@@ -47,12 +48,6 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
   <img alt="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71" height="36"/>
 
-  <!-- Web -->
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
-
   <!-- Base -->
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
@@ -64,7 +59,7 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
 ## 🎓 Cursos
 
 ### Em andamento
-- Python para Ciência de Dados — IBM
+- Carreira em Análise de Dados — Alura (foco em Python, SQL, Excel, Power BI)
 
 ### Concluídos
 - SQL para Ciência de Dados - University of California, Davies
@@ -83,7 +78,7 @@ Sou estudante de Engenharia de Software pela PUC-Campinas, com interesse e foco 
 
 - Ciência de Dados  
 - Análise de Dados  
-- Machine Learning 
+- Machine Learning
 
 ---
 
