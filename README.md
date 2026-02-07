@@ -84,7 +84,7 @@ Tenho vontade de atuar especialmente em diversos contextos onde dados têm um pa
 
 ## 🤝 Perfil
 
-Proativo, analítico, curioso, com facilidade para aprender, resolver problemas e trabalhar em equipe.
+Proativo, comunicativo, analítico, curioso, com facilidade para aprender, resolver problemas e trabalhar em equipe.
 
 ---
 
