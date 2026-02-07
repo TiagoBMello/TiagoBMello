@@ -4,7 +4,7 @@
 
 Sou estudante de Engenharia de Software na PUC-Campinas, com interesse nas áreas de Dados e Machine Learning. Estou construindo minha base em análise de dados com Python, SQL, Power BI e Excel, buscando oportunidades de estágio para aprender na prática e contribuir com projetos orientados a dados.
 
-Tenho vontade de atuar especialmente em contextos como o mercado financeiro, onde dados têm um papel central na tomada de decisão, e também no mercado esportivo, explorando análises de desempenho e métricas. Atualmente, sigo desenvolvendo projetos pessoais e estudando para evoluir na área.
+Tenho vontade de atuar especialmente em diversos contextos onde dados têm um papel central na tomada de decisão. Atualmente, sigo desenvolvendo projetos pessoais e estudando para evoluir na área.
 
 ---
 
